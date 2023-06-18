@@ -3,10 +3,8 @@
 #include <time.h>
 
 /**
- * main function that generates radom numbers 
- *
+ * main - Entry point 
  * Return Always 0 (success)
- *
  */
 
 int main(void)
