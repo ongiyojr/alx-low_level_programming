@@ -6,8 +6,7 @@
  * Return: Always return 0 (Success)
  */
 int main(void)
-{
-	int n; 
+{	int n; 
 	int num;
 
 	srand(time(0));
@@ -26,5 +25,5 @@ int main(void)
 	{
 		printf("%d and is 0\n", num);
 	}
-	return(0);
+	return (0);
 }
