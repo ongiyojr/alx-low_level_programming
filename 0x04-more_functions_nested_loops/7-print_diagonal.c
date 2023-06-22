@@ -1,11 +1,9 @@
 #include "main.h"
-
 /**
  * print_diagonal - Entry point
  * @n: times to print diagonal line
  * return: empty
  */
-
 void print_diagonal(int n)
 {
 	int x, y;
