@@ -1,10 +1,9 @@
 #include "main.h"
-
 /**
  * _strcat - Entry point
- * @dest: The destination string
- * @scr: the source string
- * Return: A pointer to the resulting string dest
+ * @dest: input value
+ * @src: Input value
+ * Return: void
  */
 char *_strcat(char *dest, char *src)
 {
@@ -26,3 +25,4 @@ char *_strcat(char *dest, char *src)
 
 	dest[i] = '\0';
 	return (dest);
+}
